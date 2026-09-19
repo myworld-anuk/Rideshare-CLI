@@ -1,4 +1,4 @@
-# Uber_App
+# Rideshare CLI
 
 Project Capabilities:
 The program acted as the backend for a ride-sharing app, managing a database of drivers and riders from text files. It could process two primary commands initiated via the command line:
